@@ -1,0 +1,10 @@
+{
+	"application" : { "html_parser" : ["nsfw", "spam"],
+		  "nsfw" : ["annotation"],
+		  "annotation": ["concat"],
+		  "concat" : [],
+		  "spam" : ["profanity"],
+		  "profanity" : ["text_summarization"],
+		  "text_summarization": []		
+	}
+}

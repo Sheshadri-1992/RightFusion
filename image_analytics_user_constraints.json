@@ -1,0 +1,3 @@
+{
+	"image_analytics" : { "face_detection" : {"layer": "cloud"},	"image_resizing" : {"layer": "cloud"}}
+}

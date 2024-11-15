@@ -1,0 +1,6 @@
+{
+	"application" : { "spam" : ["profanity"],
+		  "profanity": ["text_summarization"],
+		  "text_summarization" :[]
+	}
+}

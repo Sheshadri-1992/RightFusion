@@ -1,0 +1,16 @@
+{
+	"web_inferencing" : { "html_parser" : {"layer": "edge", "resource": 1},
+		  "nsfw" : {"layer": "edge", "resource": 1},
+		  "annotation": {"layer": "edge", "resource": 1},
+		  "concat" : {"layer": "edge", "resource": 1},
+		  "spam" : {"layer": "edge", "resource": 1},
+		  "profanity" : {"layer": "edge", "resource": 1},
+		  "text_summarization": {"layer": "edge", "resource": 1}		
+	},
+	"image_analytics" : { "face_detection" : {"layer": "cloud", "resource": 3},
+		  "image_resizing" : {"layer": "edge", "resource": 1},
+		  "gif_creation": {"layer": "edge", "resource": 1},
+		  "format_conversion" : {"layer": "cloud", "resource": 1}
+	}
+}
+

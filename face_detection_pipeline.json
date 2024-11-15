@@ -1,0 +1,6 @@
+{
+	"application" : { "face_detection" : ["image_resizing"],
+		  "image_resizing": ["format_conversion"],
+		  "format_conversion" :[]
+	}
+}

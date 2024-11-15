@@ -1,0 +1,7 @@
+{
+	"application" : { "nsfw" : ["image_annotation"],
+		  "image_annotation": ["multi_image_resizing", "image_concatenation"],
+		  "multi_image_resizing" :[],
+		  "image_concatenation" : []	
+	}
+}

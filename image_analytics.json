@@ -1,0 +1,7 @@
+{
+	"application" : { "face_detection" : ["image_resizing"],
+		  "image_resizing" : ["gif_creation"],
+		  "gif_creation": ["format_conversion"],
+		  "format_conversion" : []		
+	}
+}
